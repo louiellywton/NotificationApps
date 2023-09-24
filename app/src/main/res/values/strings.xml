@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id" translatable="false">YOUR_DEFAULT_NOTIFICATION_CHANNEL_ID</string>
+
+</resources>
